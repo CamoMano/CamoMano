@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m @CamoMano
-- 👀 I’m interested in game and mod development.
+- 👀 I’m interested in the development of mods, games, and software.
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
 
